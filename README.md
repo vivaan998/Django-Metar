@@ -65,7 +65,8 @@ On re-visiting the same code again, the data is fetched from the Redis-cache for
 
 **Currently the Cache Time to Leave for the code/view to be deleted is set to be 5 minutes, mentioned in settings.py file.**
 
-##For Instance look at the images below for better Visualization and Understanding
+
+## For Instance look at the images below for better Visualization and Understanding
 
 ![Alt-Text](/Screenshots/code-not-exsits.JPG)
 
