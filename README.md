@@ -37,6 +37,9 @@ Clone repository and got to project's root directory afterwards follow steps:
 `python manage.py runserver`
 
 
+## Results
+
+
 ### GET /
 
 Has the frontend of the search. The button in the header part checks Status of Redis Server.
