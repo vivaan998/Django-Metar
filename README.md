@@ -2,7 +2,7 @@
 
 ## Requirements
 
-This Project is developed using **Django** and **Redis** . Additional requirements are included in **requirement.txt** file for interaction with *https://tgftp.nws.noaa.gov/data/observations/metar/stations/* website. 
+This Project is developed using **Django** and **Redis** . Additional requirements are included in **requirement.txt** file for interaction with *https://tgftp.nws.noaa.gov/data/observations/metar/stations/* website. <br />
 <br/>Also change the **Redis_HOST** and **Redis_PORT** in the **settings.py** if deploying on any other server. 
 <br /> The Project uses Redis, Web Drivers, Selenium and such libraries to develop the application.
  
